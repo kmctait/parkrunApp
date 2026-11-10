@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Runner with barcode flag app icon">
+  <rect width="1024" height="1024" fill="#F7A41D"/>
+  <circle cx="512" cy="512" r="404" fill="none" stroke="#262B3A" stroke-width="30"/>
+
+  <!-- Barcode flag -->
+  <path d="M 600 330 L 600 220" fill="none" stroke="#262B3A" stroke-width="12" stroke-linecap="round"/>
+  <rect x="612" y="225" width="100" height="70" rx="8" fill="#262B3A"/>
+  <g fill="#F7A41D">
+    <rect x="624" y="237" width="8" height="46"/>
+    <rect x="640" y="237" width="16" height="46"/>
+    <rect x="664" y="237" width="6" height="46"/>
+    <rect x="678" y="237" width="12" height="46"/>
+    <rect x="698" y="237" width="6" height="46"/>
+  </g>
+
+  <!-- Runner -->
+  <circle cx="490" cy="330" r="38" fill="#262B3A"/>
+  <path d="M 480 380 L 455 520" fill="none" stroke="#262B3A" stroke-width="46" stroke-linecap="round"/>
+  <path d="M 475 410 C 515 398 555 378 590 350" fill="none" stroke="#262B3A" stroke-width="40" stroke-linecap="round"/>
+  <path d="M 470 420 C 430 448 400 470 375 500" fill="none" stroke="#262B3A" stroke-width="40" stroke-linecap="round"/>
+  <path d="M 455 520 C 500 565 535 620 545 680" fill="none" stroke="#262B3A" stroke-width="44" stroke-linecap="round"/>
+  <path d="M 455 520 C 425 570 390 610 355 640" fill="none" stroke="#262B3A" stroke-width="44" stroke-linecap="round"/>
+</svg>

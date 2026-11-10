@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Classic tree app icon">
+  <rect width="1024" height="1024" fill="#FFA300"/>
+  <circle cx="512" cy="512" r="404" fill="none" stroke="#2B233D" stroke-width="26"/>
+
+  <!-- Tree canopy -->
+  <path d="M 398 392 C 390 262 460 200 534 200 C 622 200 690 280 674 386"
+        fill="none" stroke="#2B233D" stroke-width="44" stroke-linecap="round"/>
+
+  <!-- Left lobe -->
+  <path d="M 512 616 C 408 648 312 574 318 474 C 324 388 412 356 470 410"
+        fill="none" stroke="#2B233D" stroke-width="44" stroke-linecap="round"/>
+
+  <!-- Right branch with a small bud -->
+  <path d="M 512 616 C 560 622 600 606 632 616"
+        fill="none" stroke="#2B233D" stroke-width="44" stroke-linecap="round"/>
+  <circle cx="650" cy="616" r="21" fill="#2B233D"/>
+
+  <!-- Trunk with subtle barcode notches -->
+  <path d="M 512 424 L 512 790" fill="none" stroke="#2B233D" stroke-width="44" stroke-linecap="round"/>
+  <g fill="#FFA300">
+    <rect x="490" y="688" width="44" height="10" rx="2"/>
+    <rect x="490" y="716" width="44" height="16" rx="2"/>
+    <rect x="490" y="748" width="44" height="8" rx="2"/>
+  </g>
+</svg>
